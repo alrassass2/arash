@@ -1,0 +1,28 @@
+{
+  "name": "زجاج سكريت ابوعريش",
+  "short_name": "زجاج سكريت",
+  "description": "مؤسسة زجاج سكريت ابوعريش المتخصصة في أعمال الزجاج السيكوريت والواجهات والدرابزين والأبواب بأبو عريش وجيزان",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "320x320",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
